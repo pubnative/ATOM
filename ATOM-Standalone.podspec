@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "ATOM-Standalone"
-    s.version      = "3.5.0-beta.1"
+    s.version      = "3.5.0-beta.2"
     s.summary      = "This is the iOS SDK of ATOM. You can read more about it at https://verve.com."
     s.description = <<-DESC
                       The ATOM Iibrary is to be designed with privacy in mind, to explore ways to support interest-based advertising, 
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
     s.platform     = :ios
   
     s.ios.deployment_target = "12.0"
-    s.source       = { :http => "https://github.com/pubnative/atom/releases/download/3.5.0-beta.1/ATOM.xcframework.zip" }
+    s.source       = { :http => "https://github.com/pubnative/atom/releases/download/3.5.0-beta.2/ATOM.xcframework.zip" }
     s.vendored_framework = 'ATOM.xcframework'
   
   end
