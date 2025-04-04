@@ -9,7 +9,7 @@ Currently ATOM can be added into your project via:
 
 In order to add ATOM into your project by using [Cocoapods](https://cocoapods.org/ "https://cocoapods.org/") you need to add the following line into your `Podfile`:
 
-`pod 'ATOM-Standalone',  '3.6.0-beta.1'`
+`pod 'ATOM-Standalone',  '3.6.0-beta.2'`
 
 ## Drag & Drop
 
