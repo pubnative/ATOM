@@ -9,18 +9,8 @@ Currently ATOM can be added into your project via:
 
 In order to add ATOM into your project by using [Cocoapods](https://cocoapods.org/ "https://cocoapods.org/") you need to add the following line into your `Podfile`:
 
-`pod 'ATOM-Standalone',  '3.6.0-beta.3'`
+`pod 'ATOM-Standalone',  '3.6.0'`
 
-## Drag & Drop
-
-1.  [Download](https://github.com/pubnative/ATOM/releases "https://github.com/pubnative/ATOM/releases") a copy of ATOM, or clone its repository and make sure you checkout the latest tagged version.
-    
-2.  Embed the `ATOM.xcframework` project in your own project.
-    
-3.  Add the `ATOM` target in the **Target Dependencies** section of the **Build Phases** tab of your application target.
-    
-4.  Add the `ATOM.xcframework` to the **Embedded Binaries** section of the **General** tab of your application target.
-    
 
 ## Usage
 
