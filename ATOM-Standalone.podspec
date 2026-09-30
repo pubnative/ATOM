@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 ATOM License Terms ("License Terms")
 
 These License Terms apply to the Software (as defined below) provided by Verve Group Europe GmbH,
-Karl-Liebknecht-Str. 32, 10178 Berlin ("VGE"). By downloading or using the Software, you ("You" or
+Behringstr. 16b, 22765 Hamburg, Germany ("VGE"). By downloading or using the Software, you ("You" or
 "Licensee") agree to be bound by these License Terms. Any use of the Software, other than as
 authorised under these Licence Terms, is prohibited.
 
